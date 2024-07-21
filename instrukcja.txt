@@ -1,0 +1,19 @@
+Instrukcja obsługi programu:
+
+1. Uruchom program w folderze roboczym, w środowisku obsługującym JAVA za pomocą kodu 'java projekt.java'. Kod testowany był w środowisku VS Code z rozszerzeniem Java Extension Pack.
+
+2. W konsoli pojawi się prośba o wskazanie pliku. Podaj pełną nazwę pliku tekstowego (w formacie .txt), który chcesz przetworzyć. Upewnij się, że plik znajduje się w tym samym folderze co program.
+
+3. Program wczyta zawartość pliku tekstowego i wyświetli ją na ekranie.
+
+4. Następnie zostaną wyświetlone statystyki opisowe dotyczące tekstu.
+
+5. Następnie zostaniesz poproszony o wprowadzenie liczby wyników TF-IDF do wyświetlenia. Możesz wpisać liczbę całkowitą większą od zera lub wpisać "all", aby wyświetlić wszystkie wyniki.
+
+6. Wybierz rodzaj sortowania wyników TF-IDF. Możesz wybrać sortowanie malejące (1) lub rosnące (2).
+
+7. Na ekranie zostaną wyświetlone wyniki TF-IDF dla wybranej liczby wyników, posortowane zgodnie z wybranym porządkiem sortowania.
+
+8. Po zakończeniu działania programu zostanie wyświetlone pożegnanie.
+
+9. Pamiętaj, że pliki tekstowe powinny być w formacie .txt i znajdować się w tym samym folderze co program.

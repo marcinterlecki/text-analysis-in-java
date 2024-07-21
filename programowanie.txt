@@ -1,0 +1,5 @@
+Programowane zorientowane obiektowo polega na napisaniu w uproszczonym, języku angielskim tzw. kodu źródłowego programu 
+(czyli tekstu w języku angielskim, który poddawany jest kompilacji do tzw. kodu pośredniego, a następnie interpretowany przez wirtualną maszynę Javy, tzw. Java Runtime Environment), 
+w którym definiujemy współdziałające ze sobą obiekty, za pomocą których rozwiązujemy określone problemy, które miał rozwiązać nasz program. 
+Programy w Javie piszemy zazwyczaj w tzw. IDE - Integrated Development Environment, co tłumaczy się jako zintegrowane środowisko programistyczne. 
+Najpopularniejsze z nich to IntelliJ IDEA, Eclipse IDE czy Apache NetBeans. 
